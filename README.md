@@ -4,4 +4,4 @@ Este repositório contém meu portfólio de projetos, onde compartilho todas as 
 
 📌 Para acessar o portfólio completo, clique no link abaixo:
 
-[Meu LinkedIn](https://www.linkedin.com/in/pedrohenriqueeng/)
+[Meu Portfólio](https://pedrohenriques22.github.io/Portfolio_de_Projetos/)
